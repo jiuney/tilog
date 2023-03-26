@@ -5,7 +5,7 @@ url: "https://jiuney.github.io"
 # THEME-SPECIFIC CONFIGURATION
 title: Orange Notes                                    # site's title
 description: "for the records"      # used by search engines
-avatar: assets/img/orange_note1.png                         # Empty for no avatar in navbar
+avatar: assets/img/avatar/orange_note.png                         # Empty for no avatar in navbar
 favicon: assets/favicon.ico                             # Icon displayed in the tab
 
 # Header and footer text
